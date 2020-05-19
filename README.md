@@ -1,5 +1,5 @@
 # Minimum
 A quick, polished text editor. Free dark mode ;)
 
-I'll make a list of issues for anyone who wishes to contribute soon!
+I'll make a list of issues for anyone who wishes to contribute soon! After I you know, upload something.
 
